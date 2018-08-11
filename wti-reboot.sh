@@ -6,7 +6,7 @@ sleep 2
 echo -e "/Off $3\r\n"
 sleep 1
 echo -e "Y\r\n"
-sleep 4
+sleep 10
 echo -e "/On $3\r\n"
 sleep 1
 echo -e "Y\r\n"
